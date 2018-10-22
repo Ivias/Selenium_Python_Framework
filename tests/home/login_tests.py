@@ -6,7 +6,6 @@ import pytest
 from utilities.teststatus import TestStatus
 
 
-
 class LoginTests(unittest.TestCase):
 
     def setUp(self):
