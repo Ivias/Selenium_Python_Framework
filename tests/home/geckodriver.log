@@ -1,0 +1,945 @@
+1537622920834	geckodriver	INFO	geckodriver 0.21.0
+1537622920834	geckodriver	INFO	Listening on 127.0.0.1:52792
+1537622923911	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile.ab5mVHvJRWr8"
+1537622929765	Marionette	INFO	Listening on port 52800
+1537622930170	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537622930229	Marionette	DEBUG	[6442450945] Frame script loaded
+1537622930231	Marionette	DEBUG	[6442450945] Frame script registered
+1537622930711	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537622932647	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537622935359	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://letskodeit.teachable.com/
+1537622940268	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://letskodeit.teachable.com/
+1537622940541	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://letskodeit.teachable.com/
+1537622941367	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://letskodeit.teachable.com/
+1537622941381	Marionette	DEBUG	[6442450945] Received DOM event unload for https://letskodeit.teachable.com/
+1537622941860	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537622941898	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1537622941898	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1537622942020	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537622942131	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537622944464	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537622944468	Marionette	DEBUG	[6442450945] Received DOM event unload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537622944756	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/?sa=eyJ1c2VyX2lkIjoxNTExNDQ4LCJleHBpcmVzX2F0IjoxNTM3NjIzNTQzLjQxMTE4NDgsInNjaG9vbF9pZCI6NDIyOTksImF1dGhlbnRpY2F0aW9uX3Rva2VuIjoieWFKTDRubzZFSDNlemJxZHJBVGp6Tmpoa3hGQnlldVV0USJ9--4d9ad24718d6d5052be198e357c2eb4b52a4fcbd
+1537622944799	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1537622944800	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1537622946526	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/
+[Parent 14704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8868, Chrome_ChildThread] WARNING: pipe error: 109:[Child 14796, Chro file z:/build/build/src/ipc/chromium/src/chrome/commonme_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1841537625378895	Marionette	INFO	Stopped listening on port 52800
+[GPU 15188
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/letskodeit.teachable.com/
+1537623342759	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://letskodeit.teachable.com/
+1537623343606	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://letskodeit.teachable.com/
+1537623343613	Marionette	DEBUG	[6442450945] Received DOM event unload for https://letskodeit.teachable.com/
+1537623344062	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537623344086	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1537623344086	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1537623344346	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537623344445	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537623347108	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537623347121	Marionette	DEBUG	[6442450945] Received DOM event unload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537623347426	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/?sa=eyJ1c2VyX2lkIjoxNTExNDQ4LCJleHBpcmVzX2F0IjoxNTM3NjIzOTQ1Ljg5MzI4MTIsInNjaG9vbF9pZCI6NDIyOTksImF1dGhlbnRpY2F0aW9uX3Rva2VuIjoieWFKTDRubzZFSDNlemJxZHJBVGp6Tmpoa3hGQnlldVV0USJ9--d7cb3a027a79249425cc11d1b692c92fb653b004
+1537623347466	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1537623347466	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1537623349179	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/
+1537623401864	Marionette	DEBUG	[6442450963] Frame script loaded
+1537623401879	Marionette	DEBUG	[2147483652] Frame script loaded
+1537623401879	Marionette	DEBUG	[6442450963] Frame script registered
+1537623401907	Marionette	DEBUG	[2147483652] Frame script registered
+[Parent 20032, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 624, Chrome_Child[Child 4272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/bui[ld/build/sParent 20032, Gecko_IOThread] WARNING: pipe errorrc/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+[Child 4272, Chrome_Child[Child 20204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20204,1537623644436	Marionette	INFO	Stopped listening on port 52892
+[GPU 17904, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537624463691	geckodriver	INFO	geckodriver 0.21.0
+1537624463701	geckodriver	INFO	Listening on 127.0.0.1:53077
+1537624466753	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile.lst1opZHXBJy"
+1537624471226	Marionette	INFO	Listening on port 53085
+1537624471706	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537624471732	Marionette	DEBUG	[6442450945] Frame script loaded
+1537624471734	Marionette	DEBUG	[6442450945] Frame script registered
+1537624471794	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537624473454	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537624475125	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://letskodeit.teachable.com/
+1537624477640	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://letskodeit.teachable.com/
+1537624477902	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://letskodeit.teachable.com/
+1537624478858	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://letskodeit.teachable.com/
+1537624478858	Marionette	DEBUG	[6442450945] Received DOM event unload for https://letskodeit.teachable.com/
+1537624479228	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537624479263	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1537624479264	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1537624479486	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537624479580	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537624481709	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537624481710	Marionette	DEBUG	[6442450945] Received DOM event unload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537624482030	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/?sa=eyJ1c2VyX2lkIjoxNTExNDQ4LCJleHBpcmVzX2F0IjoxNTM3NjI1MDgwLjY3MjIwOTUsInNjaG9vbF9pZCI6NDIyOTksImF1dGhlbnRpY2F0aW9uX3Rva2VuIjoieWFKTDRubzZFSDNlemJxZHJBVGp6Tmpoa3hGQnlldVV0USJ9--99203bc3b97d8a68153a628d85537449108c4222
+1537624482073	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1537624482074	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1537624483737	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/
+[Parent 10884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium[/src/chrome/common/ipc_channel_win.cc, line 34C6h
+ild 13316, Chrome_Chi[Child 13228, ldThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13316, Chr[Parent 10884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 201537625379358	Marionette	INFO	Stopped listening on port 53085
+[GPU 15924,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+442450945] Received DOM event beforeunload for https://letskodeit.teachable.com/
+1537624659713	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://letskodeit.teachable.com/
+1537624659714	Marionette	DEBUG	[6442450945] Received DOM event unload for https://letskodeit.teachable.com/
+1537624660148	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537624660185	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1537624660185	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1537624660422	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537624660524	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537624662706	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537624662707	Marionette	DEBUG	[6442450945] Received DOM event unload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537624663043	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/?sa=eyJ1c2VyX2lkIjoxNTExNDQ4LCJleHBpcmVzX2F0IjoxNTM3NjI1MjYxLjgxOTEwMjUsInNjaG9vbF9pZCI6NDIyOTksImF1dGhlbnRpY2F0aW9uX3Rva2VuIjoieWFKTDRubzZFSDNlemJxZHJBVGp6Tmpoa3hGQnlldVV0USJ9--ad47926c026621129d82d6fadbff5071522005d1
+1537624663099	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1537624663099	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1537624664375	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/
+[Parent 7500, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7500, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi[Child 13204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7500, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 185401537625379339	Marionette	INFO	Stopped listening on port 53174
+[GPU 12276, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+45] Received DOM event beforeunload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537625293891	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537625293903	Marionette	DEBUG	[6442450945] Received DOM event unload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537625294335	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/?sa=eyJ1c2VyX2lkIjoxNTExNDQ4LCJleHBpcmVzX2F0IjoxNTM3NjI1ODkyLjgyMzM0MzgsInNjaG9vbF9pZCI6NDIyOTksImF1dGhlbnRpY2F0aW9uX3Rva2VuIjoieWFKTDRubzZFSDNlemJxZHJBVGp6Tmpoa3hGQnlldVV0USJ9--ccaf32df0d34f4c8546bf605505f69b2195f0be2
+1537625294395	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1537625294395	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1537625295656	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/
+1537625295701	Marionette	INFO	Stopped listening on port 53283
+[Parent 16300, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13016[Child 8004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8004, Chrome_Ch[Parent 16300, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 137[GPU 1086
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537625375122	geckodriver	INFO	geckodriver 0.21.0
+1537625375141	geckodriver	INFO	Listening on 127.0.0.1:53352
+1537625378681	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile.kNNLZh1UH0ob"
+1537625385306	Marionette	INFO	Listening on port 53360
+1537625385329	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537625385357	Marionette	DEBUG	[6442450945] Frame script loaded
+1537625385358	Marionette	DEBUG	[6442450945] Frame script registered
+1537625385427	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537625388032	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537625390547	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://letskodeit.teachable.com/
+1537625393066	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://letskodeit.teachable.com/
+1537625393331	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537625395056	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537625397673	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537625397690	Marionette	DEBUG	[6442450945] Received DOM event unload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537625398036	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/?sa=eyJ1c2VyX2lkIjoxNTExNDQ4LCJleHBpcmVzX2F0IjoxNTM3NjI1OTk2Ljc3Mjc5NjIsInNjaG9vbF9pZCI6NDIyOTksImF1dGhlbnRpY2F0aW9uX3Rva2VuIjoieWFKTDRubzZFSDNlemJxZHJBVGp6Tmpoa3hGQnlldVV0USJ9--8c3ec08ec97a9f8987cba8686ff2d8a947617d31
+1537625398080	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1537625398081	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1537625399098	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/
+[Parent 16300, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chro[Child 15172, Cmium/hromsrc/che_Crome/chilommon/ipc_channel_win.cc, line 346d
+Thread] WARNING: p[iChipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 151[Parent 16300, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 141537625669682	Marionette	INFO	Stopped listening on port 53360
+[GPU 9708, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537625725310	geckodriver	INFO	geckodriver 0.21.0
+1537625725320	geckodriver	INFO	Listening on 127.0.0.1:53577
+1537625728376	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile.c0fNdWjcueCR"
+1537625733878	Marionette	INFO	Listening on port 53585
+1537625733976	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537625734020	Marionette	DEBUG	[6442450945] Frame script loaded
+1537625734033	Marionette	DEBUG	[6442450945] Frame script registered
+1537625734099	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537625737766	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537625740609	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://letskodeit.teachable.com/
+1537625743440	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://letskodeit.teachable.com/
+1537625743728	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://letskodeit.teachable.com/
+1537625744792	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://letskodeit.teachable.com/
+1537625744794	Marionette	DEBUG	[6442450945] Received DOM event unload for https://letskodeit.teachable.com/
+1537625745109	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537625745144	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1537625745144	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1537625745314	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537625745418	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537625747210	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537625747211	Marionette	DEBUG	[6442450945] Received DOM event unload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537625747542	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/?sa=eyJ1c2VyX2lkIjoxNTExNDQ4LCJleHBpcmVzX2F0IjoxNTM3NjI2MzQ2LjQ3NTQzNzIsInNjaG9vbF9pZCI6NDIyOTksImF1dGhlbnRpY2F0aW9uX3Rva2VuIjoieWFKTDRubzZFSDNlemJxZHJBVGp6Tmpoa3hGQnlldVV0USJ9--5aba82a537adf49e1b3ef8907f2bde607fac6137
+1537625747580	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1537625747588	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1537625748761	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/
+[Child 18484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 184[Parent 9824, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 165041537625837149	Marionette	INFO	Stopped listening on port 53585
+[GPU 14636, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537626054027	geckodriver	INFO	geckodriver 0.21.0
+1537626054038	geckodriver	INFO	Listening on 127.0.0.1:53655
+1537626057145	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile.jm21oazpsX1R"
+1537626061435	Marionette	INFO	Listening on port 53663
+1537626061524	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537626061587	Marionette	DEBUG	[6442450945] Frame script loaded
+1537626061588	Marionette	DEBUG	[6442450945] Frame script registered
+1537626061677	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537626063953	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537626066042	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://letskodeit.teachable.com/
+1537626069078	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://letskodeit.teachable.com/
+1537626069376	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537626070913	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537626073149	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537626073155	Marionette	DEBUG	[6442450945] Received DOM event unload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537626073508	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/?sa=eyJ1c2VyX2lkIjoxNTExNDQ4LCJleHBpcmVzX2F0IjoxNTM3NjI2NjcyLjIyNDI5OTQsInNjaG9vbF9pZCI6NDIyOTksImF1dGhlbnRpY2F0aW9uX3Rva2VuIjoieWFKTDRubzZFSDNlemJxZHJBVGp6Tmpoa3hGQnlldVV0USJ9--6f91a2e297ccfa12f16e4ae8389bf1897a65491c
+1537626073555	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1537626073555	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1537626075794	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/
+1537626075817	Marionette	INFO	Stopped listening on port 53663
+[Parent 9488, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19412, [Parent 9488, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5444, Chrome_[Parent 9488, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 163[GPU 143
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537626176039	geckodriver	INFO	geckodriver 0.21.0
+1537626176049	geckodriver	INFO	Listening on 127.0.0.1:53785
+1537626179104	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile.96qtIRFfbmhN"
+1537626184112	Marionette	INFO	Listening on port 53793
+1537626184567	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537626184620	Marionette	DEBUG	[6442450945] Frame script loaded
+1537626184622	Marionette	DEBUG	[6442450945] Frame script registered
+1537626184681	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537626186271	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537626188223	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://letskodeit.teachable.com/
+1537626190394	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://letskodeit.teachable.com/
+1537626190657	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://letskodeit.teachable.com/
+1537626191600	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://letskodeit.teachable.com/
+1537626191613	Marionette	DEBUG	[6442450945] Received DOM event unload for https://letskodeit.teachable.com/
+1537626191955	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537626191989	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1537626191989	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1537626192459	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537626192625	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537626194959	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537626194963	Marionette	DEBUG	[6442450945] Received DOM event unload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537626195268	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/?sa=eyJ1c2VyX2lkIjoxNTExNDQ4LCJleHBpcmVzX2F0IjoxNTM3NjI2Nzk0LjIwNjgyNzksInNjaG9vbF9pZCI6NDIyOTksImF1dGhlbnRpY2F0aW9uX3Rva2VuIjoieWFKTDRubzZFSDNlemJxZHJBVGp6Tmpoa3hGQnlldVV0USJ9--01b45154a98e5e18c9b40ab7157139b17201a280
+1537626195310	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1537626195310	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1537626196606	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/
+1537626196639	Marionette	INFO	Stopped listening on port 53793
+[Child 13920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13920, Chrome_C[Parent 12004, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 4360, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537627197010	geckodriver	INFO	geckodriver 0.21.0
+1537627197019	geckodriver	INFO	Listening on 127.0.0.1:54028
+1537627200171	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile.i0DZH4gYOio8"
+1537627205611	Marionette	INFO	Listening on port 54036
+1537627205634	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537627205663	Marionette	DEBUG	[6442450945] Frame script loaded
+1537627205666	Marionette	DEBUG	[6442450945] Frame script registered
+1537627205730	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537627207830	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537627215568	geckodriver	INFO	geckodriver 0.21.0
+1537627215578	geckodriver	INFO	Listening on 127.0.0.1:54065
+1537627218636	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile.Ka8x0hONoew2"
+1537627223339	Marionette	INFO	Listening on port 54073
+1537627235735	geckodriver	INFO	geckodriver 0.21.0
+1537627235745	geckodriver	INFO	Listening on 127.0.0.1:54092
+1537627238783	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile.JIfqO9IJ998P"
+1537627243241	Marionette	INFO	Listening on port 54100
+1537627243723	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537627243773	Marionette	DEBUG	[6442450945] Frame script loaded
+1537627243775	Marionette	DEBUG	[6442450945] Frame script registered
+1537627243831	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537627245216	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537627247957	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://letskodeit.teachable.com/
+1537630875701	geckodriver	INFO	geckodriver 0.21.0
+1537630875710	geckodriver	INFO	Listening on 127.0.0.1:54410
+1537630878771	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile.Ia8qnHLiaCKL"
+1537630883822	Marionette	INFO	Listening on port 54418
+1537630884209	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537630884237	Marionette	DEBUG	[6442450945] Frame script loaded
+1537630884238	Marionette	DEBUG	[6442450945] Frame script registered
+1537630884303	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537630885925	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537630889198	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://letskodeit.teachable.com/
+1537630892937	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://letskodeit.teachable.com/
+1537630893221	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537630894493	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537630894840	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537630894844	Marionette	DEBUG	[6442450945] Received DOM event unload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537630895176	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sso.teachable.com/secure/42299/users/sign_in?flow_school_id=42299
+1537630895210	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1537630895210	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1537630895335	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sso.teachable.com/secure/42299/users/sign_in?flow_school_id=42299
+1537630895349	Marionette	INFO	Stopped listening on port 54418
+[Child 16960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1696[Child 13280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13280, Chrome_Chil[Parent 12276, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3024, C[GPU 1366
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537630897866	geckodriver	INFO	geckodriver 0.21.0
+1537630897876	geckodriver	INFO	Listening on 127.0.0.1:54470
+1537630900916	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile.P3rw5Z9VCgj2"
+1537630905213	Marionette	INFO	Listening on port 54478
+1537630905264	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537630905291	Marionette	DEBUG	[6442450945] Frame script loaded
+1537630905292	Marionette	DEBUG	[6442450945] Frame script registered
+1537630905540	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537630906657	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537630910676	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://letskodeit.teachable.com/
+1537630912554	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://letskodeit.teachable.com/
+1537630912825	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537630914485	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537630916528	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537630916539	Marionette	DEBUG	[6442450945] Received DOM event unload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537630917373	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/?sa=eyJ1c2VyX2lkIjoxNTExNDQ4LCJleHBpcmVzX2F0IjoxNTM3NjMxNTE1LjgyODE4Niwic2Nob29sX2lkIjo0MjI5OSwiYXV0aGVudGljYXRpb25fdG9rZW4iOiJ5YUpMNG5vNkVIM2V6YnFkckFUanpOamhreEZCeWV1VXRRIn0%3D--77fd56818b81aaf2ff2a9572485e0b9d3138cac2
+1537630917419	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1537630917419	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1537630918338	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/
+1537630918388	Marionette	INFO	Stopped listening on port 54478
+[Child 8472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8472[Child 14636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14636, Chrome_C[Parent 6768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10820, Chro[GPU 88
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537658350896	geckodriver	INFO	geckodriver 0.21.0
+1537658350906	geckodriver	INFO	Listening on 127.0.0.1:55167
+1537658353962	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile.nkDdgB42I1KZ"
+1537658361653	Marionette	INFO	Listening on port 55175
+1537658361730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537658361757	Marionette	DEBUG	[6442450945] Frame script loaded
+1537658361758	Marionette	DEBUG	[6442450945] Frame script registered
+1537658361825	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537658363327	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537658365680	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://letskodeit.teachable.com/
+1537658367512	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://letskodeit.teachable.com/
+1537658367791	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537658369502	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537658371483	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537658371488	Marionette	DEBUG	[6442450945] Received DOM event unload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537658371807	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/?sa=eyJ1c2VyX2lkIjoxNTExNDQ4LCJleHBpcmVzX2F0IjoxNTM3NjU4OTcwLjc5NDQ2NSwic2Nob29sX2lkIjo0MjI5OSwiYXV0aGVudGljYXRpb25fdG9rZW4iOiJ5YUpMNG5vNkVIM2V6YnFkckFUanpOamhreEZCeWV1VXRRIn0%3D--6eaf61ded7ca57124ef9ceba8d960f7445634544
+1537658371847	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1537658371847	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1537658373560	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/
+1537658373595	Marionette	INFO	Stopped listening on port 55175
+[Child 9616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9616,[Child 19904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19904, Chr[Parent 19716, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3640, [GPU 8132,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537660704953	geckodriver	INFO	geckodriver 0.21.0
+1537660704962	geckodriver	INFO	Listening on 127.0.0.1:55379
+1537660708005	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile.lbrkt4FRqOff"
+1537660713781	Marionette	INFO	Listening on port 55387
+1537660714048	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537660714074	Marionette	DEBUG	[6442450945] Frame script loaded
+1537660714077	Marionette	DEBUG	[6442450945] Frame script registered
+1537660714135	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537660715649	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537660718798	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://letskodeit.teachable.com/
+1537660721531	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://letskodeit.teachable.com/
+1537660721797	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537660723287	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537660725461	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537660725477	Marionette	DEBUG	[6442450945] Received DOM event unload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537660725848	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/?sa=eyJ1c2VyX2lkIjoxNTExNDQ4LCJleHBpcmVzX2F0IjoxNTM3NjYxMzI0Ljc4MDY2Niwic2Nob29sX2lkIjo0MjI5OSwiYXV0aGVudGljYXRpb25fdG9rZW4iOiJ5YUpMNG5vNkVIM2V6YnFkckFUanpOamhreEZCeWV1VXRRIn0%3D--2d09c357647d8e7993f14efe718272579f20b85c
+1537660725898	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1537660725899	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1537660726735	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/
+1537660726783	Marionette	INFO	Stopped listening on port 55387
+[Parent 17708, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18080, C[Child 6224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 17708, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18[GPU 11080
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537660792731	geckodriver	INFO	geckodriver 0.21.0
+1537660792740	geckodriver	INFO	Listening on 127.0.0.1:55449
+1537660795800	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile.jEUBFhmVRIrX"
+1537660801436	Marionette	INFO	Listening on port 55457
+1537660801870	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537660801938	Marionette	DEBUG	[6442450945] Frame script loaded
+1537660801943	Marionette	DEBUG	[6442450945] Frame script registered
+1537660802006	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537660803410	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537660806156	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://letskodeit.teachable.com/
+1537660808311	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://letskodeit.teachable.com/
+1537660808569	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537660810291	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537660812632	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537660812633	Marionette	DEBUG	[6442450945] Received DOM event unload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537660812981	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/?sa=eyJ1c2VyX2lkIjoxNTExNDQ4LCJleHBpcmVzX2F0IjoxNTM3NjYxNDExLjkwMjk5MSwic2Nob29sX2lkIjo0MjI5OSwiYXV0aGVudGljYXRpb25fdG9rZW4iOiJ5YUpMNG5vNkVIM2V6YnFkckFUanpOamhreEZCeWV1VXRRIn0%3D--933e62c0dfd0fdf8a15a7ec2baed35d170c69b8a
+1537660813024	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1537660813024	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1537660814263	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/
+1537660814271	Marionette	INFO	Stopped listening on port 55457
+[Child 472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 472, [Child 3204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3204, Chro[Parent 17740, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14944, Chr[Parent 17740, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[GPU 16568
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537661262524	geckodriver	INFO	geckodriver 0.21.0
+1537661262533	geckodriver	INFO	Listening on 127.0.0.1:55532
+1537661265583	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile.qFLPKRE4SePm"
+1537661271148	Marionette	INFO	Listening on port 55540
+1537661271635	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537661271707	Marionette	DEBUG	[6442450945] Frame script loaded
+1537661271709	Marionette	DEBUG	[6442450945] Frame script registered
+1537661271794	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537661273367	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537661276236	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://letskodeit.teachable.com/
+1537661279431	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://letskodeit.teachable.com/
+1537661279704	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://letskodeit.teachable.com/
+1537661280541	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://letskodeit.teachable.com/
+1537661280548	Marionette	DEBUG	[6442450945] Received DOM event unload for https://letskodeit.teachable.com/
+1537661280901	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537661280936	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1537661280937	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1537661281612	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537661281755	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537661283819	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537661283837	Marionette	DEBUG	[6442450945] Received DOM event unload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537661284148	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/?sa=eyJ1c2VyX2lkIjoxNTExNDQ4LCJleHBpcmVzX2F0IjoxNTM3NjYxODgzLjE1NjkwMywic2Nob29sX2lkIjo0MjI5OSwiYXV0aGVudGljYXRpb25fdG9rZW4iOiJ5YUpMNG5vNkVIM2V6YnFkckFUanpOamhreEZCeWV1VXRRIn0%3D--a0f5df6a3f6b39c7362777768bb2ffe7f669c20e
+1537661284189	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1537661284189	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1537661285573	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/
+1537661285603	Marionette	INFO	Stopped listening on port 55540
+[Child 15888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15888,[Child 7896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7896, Chrome_C[Parent 20016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16024, C[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537661359124	geckodriver	INFO	geckodriver 0.21.0
+1537661359133	geckodriver	INFO	Listening on 127.0.0.1:55603
+1537661362189	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile.aGDsGJnTinyC"
+1537661366162	Marionette	INFO	Listening on port 55611
+1537661366530	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537661366596	Marionette	DEBUG	[6442450945] Frame script loaded
+1537661366597	Marionette	DEBUG	[6442450945] Frame script registered
+1537661366660	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537661368645	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537661371055	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://letskodeit.teachable.com/
+1537661373321	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://letskodeit.teachable.com/
+1537661373600	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537661375431	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537661377794	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537661377798	Marionette	DEBUG	[6442450945] Received DOM event unload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537661378111	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/?sa=eyJ1c2VyX2lkIjoxNTExNDQ4LCJleHBpcmVzX2F0IjoxNTM3NjYxOTc3LjIxODkxNDcsInNjaG9vbF9pZCI6NDIyOTksImF1dGhlbnRpY2F0aW9uX3Rva2VuIjoieWFKTDRubzZFSDNlemJxZHJBVGp6Tmpoa3hGQnlldVV0USJ9--4950ceaf45a7e8cd8d4b6928c7cad1968b22bb7d
+1537661378167	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1537661378167	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1537661379346	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/
+1537661379353	Marionette	INFO	Stopped listening on port 55611
+[Child 9696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9696, Chrome_[Parent 16748, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13640,[GPU 4112,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537661450968	geckodriver	INFO	geckodriver 0.21.0
+1537661450977	geckodriver	INFO	Listening on 127.0.0.1:55670
+1537661454014	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile.3zmGdGvSZHPG"
+1537661458023	Marionette	INFO	Listening on port 55678
+1537661458361	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537661458401	Marionette	DEBUG	[6442450945] Frame script loaded
+1537661458402	Marionette	DEBUG	[6442450945] Frame script registered
+1537661458460	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537661459866	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537661462248	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://letskodeit.teachable.com/
+1537661464050	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://letskodeit.teachable.com/
+1537661464301	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537661466346	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537661470651	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537661470667	Marionette	DEBUG	[6442450945] Received DOM event unload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537661470970	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/?sa=eyJ1c2VyX2lkIjoxNTExNDQ4LCJleHBpcmVzX2F0IjoxNTM3NjYyMDY3Ljk3OTk5NDMsInNjaG9vbF9pZCI6NDIyOTksImF1dGhlbnRpY2F0aW9uX3Rva2VuIjoieWFKTDRubzZFSDNlemJxZHJBVGp6Tmpoa3hGQnlldVV0USJ9--5f59de3dd9feecc9c1aff8d15b52bff42435faee
+1537661471014	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1537661471014	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1537661472147	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/
+1537661472155	Marionette	INFO	Stopped listening on port 55678
+[Child 18508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18508[Child 5192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5192, Chrome[Parent 14328, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 15008
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537701268335	geckodriver	INFO	geckodriver 0.21.0
+1537701268347	geckodriver	INFO	Listening on 127.0.0.1:56171
+1537701271377	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile.KDZX7V1oWTKi"
+1537701275973	geckodriver	INFO	geckodriver 0.21.0
+1537701275981	geckodriver	INFO	Listening on 127.0.0.1:56188
+1537701279025	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile.5h45GUsb5Lfa"
+1537701283796	Marionette	INFO	Listening on port 56196
+1537701283978	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537701284013	Marionette	DEBUG	[6442450945] Frame script loaded
+1537701284014	Marionette	DEBUG	[6442450945] Frame script registered
+1537701284073	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537701285527	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537701287877	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://letskodeit.teachable.com/
+1537701290141	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://letskodeit.teachable.com/
+1537701290414	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537701291546	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537701293541	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537701293542	Marionette	DEBUG	[6442450945] Received DOM event unload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537701293877	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/?sa=eyJ1c2VyX2lkIjoxNTExNDQ4LCJleHBpcmVzX2F0IjoxNTM3NzAxODkyLjQ2ODgzMzIsInNjaG9vbF9pZCI6NDIyOTksImF1dGhlbnRpY2F0aW9uX3Rva2VuIjoieWFKTDRubzZFSDNlemJxZHJBVGp6Tmpoa3hGQnlldVV0USJ9--2c626cb304de82a5cc483d77932bd21e911a7d47
+1537701293933	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1537701293934	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1537701294780	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/
+1537701881921	Marionette	INFO	Stopped listening on port 56196
+[Child 10792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 107[Child 21328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21328[Parent 14828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21096,[GPU 21488, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537701988770	geckodriver	INFO	geckodriver 0.21.0
+1537701988778	geckodriver	INFO	Listening on 127.0.0.1:56279
+1537701991821	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile.LZlQ6ZvMGEWn"
+1537701997039	Marionette	INFO	Listening on port 56287
+1537701997291	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537701997324	Marionette	DEBUG	[6442450945] Frame script loaded
+1537701997326	Marionette	DEBUG	[6442450945] Frame script registered
+1537701997406	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537701998641	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537702002233	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://letskodeit.teachable.com/
+1537702004682	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://letskodeit.teachable.com/
+1537702004934	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://letskodeit.teachable.com/
+1537702005567	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://letskodeit.teachable.com/
+1537702005570	Marionette	DEBUG	[6442450945] Received DOM event unload for https://letskodeit.teachable.com/
+1537702005915	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537702005955	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1537702005955	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1537702006113	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537702006223	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537702008022	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537702008028	Marionette	DEBUG	[6442450945] Received DOM event unload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537702008372	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/?sa=eyJ1c2VyX2lkIjoxNTExNDQ4LCJleHBpcmVzX2F0IjoxNTM3NzAyNjA2LjkxODY4OTUsInNjaG9vbF9pZCI6NDIyOTksImF1dGhlbnRpY2F0aW9uX3Rva2VuIjoieWFKTDRubzZFSDNlemJxZHJBVGp6Tmpoa3hGQnlldVV0USJ9--2d4e84abe326a98597441bd7bb236990ae7b5474
+1537702008425	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1537702008425	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1537702009280	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/
+1537702009306	Marionette	INFO	Stopped listening on port 56287
+[Child 6740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 674[Parent 12500, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7476, Chrome_[Parent 12500, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20136, C[GPU 14320, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537706968708	geckodriver	INFO	geckodriver 0.21.0
+1537706968718	geckodriver	INFO	Listening on 127.0.0.1:56527
+1537706971782	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile.qhny3IXl3Vai"
+1537706977827	Marionette	INFO	Listening on port 56535
+1537706978352	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537706978411	Marionette	DEBUG	[6442450945] Frame script loaded
+1537706978413	Marionette	DEBUG	[6442450945] Frame script registered
+1537706978474	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537706979846	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537706983216	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://letskodeit.teachable.com/
+1537706985514	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://letskodeit.teachable.com/
+1537707010696	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://letskodeit.teachable.com/
+1537707011493	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://letskodeit.teachable.com/
+1537707011495	Marionette	DEBUG	[6442450945] Received DOM event unload for https://letskodeit.teachable.com/
+1537707011898	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537707011931	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1537707011931	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1537707012069	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537707012186	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537707014128	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537707014130	Marionette	DEBUG	[6442450945] Received DOM event unload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537707014440	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/?sa=eyJ1c2VyX2lkIjoxNTExNDQ4LCJleHBpcmVzX2F0IjoxNTM3NzA3NjEzLjIwMzcwODIsInNjaG9vbF9pZCI6NDIyOTksImF1dGhlbnRpY2F0aW9uX3Rva2VuIjoieWFKTDRubzZFSDNlemJxZHJBVGp6Tmpoa3hGQnlldVV0USJ9--ed684c8042161c24b5bda9a8830af467e2872c4d
+1537707014479	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1537707014479	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1537707016056	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/
+1537707209595	Marionette	INFO	Stopped listening on port 56535
+[Parent 20992, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9404,[Child 4304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4304, Chrome_C[Parent 20992, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 1668,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537707290916	geckodriver	INFO	geckodriver 0.21.0
+1537707290925	geckodriver	INFO	Listening on 127.0.0.1:56606
+1537707293983	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile.R2etHSwaVnhi"
+1537707299843	Marionette	INFO	Listening on port 56616
+1537707300019	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537707300077	Marionette	DEBUG	[6442450945] Frame script loaded
+1537707300078	Marionette	DEBUG	[6442450945] Frame script registered
+1537707300142	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537707301732	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537707305738	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://letskodeit.teachable.com/
+1537707308842	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://letskodeit.teachable.com/
+1537707309114	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://letskodeit.teachable.com/
+1537707309886	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://letskodeit.teachable.com/
+1537707309889	Marionette	DEBUG	[6442450945] Received DOM event unload for https://letskodeit.teachable.com/
+1537707310339	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537707310372	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1537707310372	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1537707310527	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537707310621	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537707312708	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537707312724	Marionette	DEBUG	[6442450945] Received DOM event unload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537707313123	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/?sa=eyJ1c2VyX2lkIjoxNTExNDQ4LCJleHBpcmVzX2F0IjoxNTM3NzA3OTExLjYxMjYyNzUsInNjaG9vbF9pZCI6NDIyOTksImF1dGhlbnRpY2F0aW9uX3Rva2VuIjoieWFKTDRubzZFSDNlemJxZHJBVGp6Tmpoa3hGQnlldVV0USJ9--906d72f44dac340610d1eef0595ccdde3d31cc07
+1537707313180	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1537707313180	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1537707314600	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/
+1537707314629	Marionette	INFO	Stopped listening on port 56616
+[Child 13644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13644[Child 21368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21368, Ch[Parent 20836, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 1055: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+1537707315358	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1537707315360	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1537707315360	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[GPU 13916, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537707708093	geckodriver	INFO	geckodriver 0.21.0
+1537707708102	geckodriver	INFO	Listening on 127.0.0.1:56688
+1537707711184	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile.rcH95IoH78Ch"
+1537707715506	Marionette	INFO	Listening on port 56696
+1537707715521	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537707715548	Marionette	DEBUG	[6442450945] Frame script loaded
+1537707715584	Marionette	DEBUG	[6442450945] Frame script registered
+1537707715654	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537707717468	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537707720380	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://letskodeit.teachable.com/
+1537707735784	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://letskodeit.teachable.com/
+1537707821393	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537708025260	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537708027793	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537708027795	Marionette	DEBUG	[6442450945] Received DOM event unload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537708028112	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/?sa=eyJ1c2VyX2lkIjoxNTExNDQ4LCJleHBpcmVzX2F0IjoxNTM3NzA4NjI2LjQ5ODk4MzksInNjaG9vbF9pZCI6NDIyOTksImF1dGhlbnRpY2F0aW9uX3Rva2VuIjoieWFKTDRubzZFSDNlemJxZHJBVGp6Tmpoa3hGQnlldVV0USJ9--60133df65a9d200b8def5de3caa8e54777f3be73
+1537708028156	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1537708028156	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1537708029646	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/
+1537708110032	Marionette	INFO	Stopped listening on port 56696
+[Parent 19672, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [Parent 19672, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15280, Chrom[Parent 19672, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19960[GPU 20736
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537708242588	geckodriver	INFO	geckodriver 0.21.0
+1537708242597	geckodriver	INFO	Listening on 127.0.0.1:56778
+1537708245644	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile.HCvdzqkifYIW"
+1537708249975	Marionette	INFO	Listening on port 56786
+1537708250075	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537708250101	Marionette	DEBUG	[6442450945] Frame script loaded
+1537708250103	Marionette	DEBUG	[6442450945] Frame script registered
+1537708250163	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537708251532	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537708253574	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://letskodeit.teachable.com/
+1537708255831	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://letskodeit.teachable.com/
+1537708256135	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537708257517	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537708260857	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537708260873	Marionette	DEBUG	[6442450945] Received DOM event unload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537708261169	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/?sa=eyJ1c2VyX2lkIjoxNTExNDQ4LCJleHBpcmVzX2F0IjoxNTM3NzA4ODU5LjI2NTM0MjIsInNjaG9vbF9pZCI6NDIyOTksImF1dGhlbnRpY2F0aW9uX3Rva2VuIjoieWFKTDRubzZFSDNlemJxZHJBVGp6Tmpoa3hGQnlldVV0USJ9--b94f55d3592d0de4819fca1c218305ee24a510e7
+1537708261215	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1537708261222	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1537708262121	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/
+1537708262152	Marionette	INFO	Stopped listening on port 56786
+[Parent 12336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16760, C[Child 16856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16856, Chrome_C[Parent 12336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10772, [GPU 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537708331660	geckodriver	INFO	geckodriver 0.21.0
+1537708331669	geckodriver	INFO	Listening on 127.0.0.1:56848
+1537708334721	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile.1tOeZSQK1h9c"
+1537708339826	Marionette	INFO	Listening on port 56856
+1537708340206	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537708340262	Marionette	DEBUG	[6442450945] Frame script loaded
+1537708340264	Marionette	DEBUG	[6442450945] Frame script registered
+1537708340337	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537708341898	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537708343975	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://letskodeit.teachable.com/
+1537708347111	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://letskodeit.teachable.com/
+1537708347371	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://letskodeit.teachable.com/
+1537708348128	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://letskodeit.teachable.com/
+1537708348134	Marionette	DEBUG	[6442450945] Received DOM event unload for https://letskodeit.teachable.com/
+1537708348622	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537708348657	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1537708348657	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1537708349202	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537708349325	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537708351760	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537708351776	Marionette	DEBUG	[6442450945] Received DOM event unload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537708352106	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/?sa=eyJ1c2VyX2lkIjoxNTExNDQ4LCJleHBpcmVzX2F0IjoxNTM3NzA4OTUwLjQ0NDk2OTIsInNjaG9vbF9pZCI6NDIyOTksImF1dGhlbnRpY2F0aW9uX3Rva2VuIjoieWFKTDRubzZFSDNlemJxZHJBVGp6Tmpoa3hGQnlldVV0USJ9--f87a72d8f4c3e29ce700c07a4cbcf2f274ab860b
+1537708352155	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1537708352156	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1537708353438	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/
+1537708353493	Marionette	INFO	Stopped listening on port 56856
+[Child 20132, Chrome_ChildThread] WARNING: pipe err[Poarent 21428, Gecko_IOThread] WARNING: piper: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346 error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+[Child 20132, [Child 20744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20744, Chro[Parent 21428, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 1108
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537708505651	geckodriver	INFO	geckodriver 0.21.0
+1537708505660	geckodriver	INFO	Listening on 127.0.0.1:56917
+1537708508703	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile.EvaNRllCRKTl"
+1537708513034	Marionette	INFO	Listening on port 56926
+1537708513078	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537708513107	Marionette	DEBUG	[6442450945] Frame script loaded
+1537708513111	Marionette	DEBUG	[6442450945] Frame script registered
+1537708513187	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537708515432	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537708518136	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://letskodeit.teachable.com/
+1537708521367	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://letskodeit.teachable.com/
+1537708521881	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://letskodeit.teachable.com/
+1537708522891	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://letskodeit.teachable.com/
+1537708522898	Marionette	DEBUG	[6442450945] Received DOM event unload for https://letskodeit.teachable.com/
+1537708523268	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537708523294	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1537708523295	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1537708523452	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537708523548	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537708525672	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537708525678	Marionette	DEBUG	[6442450945] Received DOM event unload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537708526000	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/?sa=eyJ1c2VyX2lkIjoxNTExNDQ4LCJleHBpcmVzX2F0IjoxNTM3NzA5MTI0LjQzMDIwNDIsInNjaG9vbF9pZCI6NDIyOTksImF1dGhlbnRpY2F0aW9uX3Rva2VuIjoieWFKTDRubzZFSDNlemJxZHJBVGp6Tmpoa3hGQnlldVV0USJ9--50abab0afa770c22f07ccfe8f628c76757c3df1a
+1537708526044	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1537708526044	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1537708527298	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/
+1537708527352	Marionette	INFO	Stopped listening on port 56926
+[Parent 13920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9180[Child 19840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19840, Chrome_C[Parent 13920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11408,[GPU 18468, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537709971268	geckodriver	INFO	geckodriver 0.21.0
+1537709971277	geckodriver	INFO	Listening on 127.0.0.1:57272
+1537709974328	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile.V0e6ozMxYhzC"
+1537709978333	Marionette	INFO	Listening on port 57280
+1537709978673	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537709978729	Marionette	DEBUG	[6442450945] Frame script loaded
+1537709978731	Marionette	DEBUG	[6442450945] Frame script registered
+1537709978787	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537709980825	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537709983473	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://letskodeit.teachable.com/
+1537709985994	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://letskodeit.teachable.com/
+1537709986274	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://letskodeit.teachable.com/
+1537709987135	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://letskodeit.teachable.com/
+1537709987141	Marionette	DEBUG	[6442450945] Received DOM event unload for https://letskodeit.teachable.com/
+1537709987498	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537709987529	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1537709987529	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1537709987650	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537709987748	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537709989886	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537709989892	Marionette	DEBUG	[6442450945] Received DOM event unload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537709990321	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/?sa=eyJ1c2VyX2lkIjoxNTExNDQ4LCJleHBpcmVzX2F0IjoxNTM3NzEwNTg4Ljg1MjIyOTgsInNjaG9vbF9pZCI6NDIyOTksImF1dGhlbnRpY2F0aW9uX3Rva2VuIjoieWFKTDRubzZFSDNlemJxZHJBVGp6Tmpoa3hGQnlldVV0USJ9--35ea70680375101341571ac4d81d3f2d0ae56378
+1537709990365	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1537709990366	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1537709991284	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/
+1537709994323	Marionette	INFO	Stopped listening on port 57280
+[Parent 17764, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18784[Child 18060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18060, Chr[Parent 17764, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 129[GPU 21312
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537711021217	geckodriver	INFO	geckodriver 0.21.0
+1537711021226	geckodriver	INFO	Listening on 127.0.0.1:57353
+1537711024303	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile.q1GK01hWc2eZ"
+1537711029265	Marionette	INFO	Listening on port 57361
+1537711029757	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537711029808	Marionette	DEBUG	[6442450945] Frame script loaded
+1537711029808	Marionette	DEBUG	[6442450945] Frame script registered
+1537711029868	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537711031194	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537711033079	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://letskodeit.teachable.com/
+1537711035240	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://letskodeit.teachable.com/
+1537711035510	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://letskodeit.teachable.com/
+1537711036490	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://letskodeit.teachable.com/
+1537711036500	Marionette	DEBUG	[6442450945] Received DOM event unload for https://letskodeit.teachable.com/
+1537711037101	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537711037138	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1537711037138	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1537711037276	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537711037380	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537711039758	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537711039762	Marionette	DEBUG	[6442450945] Received DOM event unload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537711040144	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/?sa=eyJ1c2VyX2lkIjoxNTExNDQ4LCJleHBpcmVzX2F0IjoxNTM3NzExNjM4LjUyMTk4NDYsInNjaG9vbF9pZCI6NDIyOTksImF1dGhlbnRpY2F0aW9uX3Rva2VuIjoieWFKTDRubzZFSDNlemJxZHJBVGp6Tmpoa3hGQnlldVV0USJ9--8e519554a78461ef20007d6ca9b2a17e1e801cb5
+1537711040200	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1537711040200	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1537711041342	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/
+1537711044395	Marionette	INFO	Stopped listening on port 57361
+[Child 20236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20236, Chrome_[Parent 10388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14612, [GPU 20328,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537711438707	geckodriver	INFO	geckodriver 0.21.0
+1537711438717	geckodriver	INFO	Listening on 127.0.0.1:57461
+1537711441768	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile.T3AQrm7lYy8S"
+1537711446771	Marionette	INFO	Listening on port 57469
+1537711447218	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537711447280	Marionette	DEBUG	[6442450945] Frame script loaded
+1537711447282	Marionette	DEBUG	[6442450945] Frame script registered
+1537711447354	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537711448485	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537711450147	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://letskodeit.teachable.com/
+1537711452141	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://letskodeit.teachable.com/
+1537711452413	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://letskodeit.teachable.com/
+1537711453271	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://letskodeit.teachable.com/
+1537711453272	Marionette	DEBUG	[6442450945] Received DOM event unload for https://letskodeit.teachable.com/
+1537711454044	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537711454078	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1537711454078	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1537711454408	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537711454532	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537711456487	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537711456488	Marionette	DEBUG	[6442450945] Received DOM event unload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537711456805	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/?sa=eyJ1c2VyX2lkIjoxNTExNDQ4LCJleHBpcmVzX2F0IjoxNTM3NzEyMDU1LjY0MjYzMjIsInNjaG9vbF9pZCI6NDIyOTksImF1dGhlbnRpY2F0aW9uX3Rva2VuIjoieWFKTDRubzZFSDNlemJxZHJBVGp6Tmpoa3hGQnlldVV0USJ9--c6ebff7337952dd23ef80acd37bab6c9d936901e
+1537711456843	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1537711456843	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1537711457824	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/
+1537711460895	Marionette	INFO	Stopped listening on port 57469
+[Parent 15704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13488, Chro[Child 12340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12340, Chrom[Parent 15704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19132,[GPU 2668,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537712032484	geckodriver	INFO	geckodriver 0.21.0
+1537712032500	geckodriver	INFO	Listening on 127.0.0.1:57764
+1537712035539	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile.YxjQsMYvlqus"
+1537712039711	Marionette	INFO	Listening on port 57772
+1537712039880	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537712039934	Marionette	DEBUG	[6442450945] Frame script loaded
+1537712039942	Marionette	DEBUG	[6442450945] Frame script registered
+1537712040022	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537712041912	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537712044766	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://letskodeit.teachable.com/
+1537712047104	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://letskodeit.teachable.com/
+1537712047371	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537712048532	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537712050334	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537712050338	Marionette	DEBUG	[6442450945] Received DOM event unload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537712050653	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/?sa=eyJ1c2VyX2lkIjoxNTExNDQ4LCJleHBpcmVzX2F0IjoxNTM3NzEyNjQ5LjU2MzA4Nywic2Nob29sX2lkIjo0MjI5OSwiYXV0aGVudGljYXRpb25fdG9rZW4iOiJ5YUpMNG5vNkVIM2V6YnFkckFUanpOamhreEZCeWV1VXRRIn0%3D--e834757f22244cda4e78cf56b712d7f02fda9332
+1537712050693	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1537712050693	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1537712051866	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/
+1537712054907	Marionette	INFO	Stopped listening on port 57772
+[Child 13404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13404[Child 19784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19784, Chrome_[GPU 21
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537712480087	geckodriver	INFO	geckodriver 0.21.0
+1537712480096	geckodriver	INFO	Listening on 127.0.0.1:57873
+1537712483130	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile.9JHasmhNVaTW"
+1537712488660	Marionette	INFO	Listening on port 57881
+1537712488724	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537712488751	Marionette	DEBUG	[6442450945] Frame script loaded
+1537712488751	Marionette	DEBUG	[6442450945] Frame script registered
+1537712488810	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537712490733	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537712492661	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://letskodeit.teachable.com/
+1537712494873	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://letskodeit.teachable.com/
+1537712495158	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537712497075	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537712499520	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537712499521	Marionette	DEBUG	[6442450945] Received DOM event unload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537712499968	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/?sa=eyJ1c2VyX2lkIjoxNTExNDQ4LCJleHBpcmVzX2F0IjoxNTM3NzEzMDk4LjU1MDk0NjUsInNjaG9vbF9pZCI6NDIyOTksImF1dGhlbnRpY2F0aW9uX3Rva2VuIjoieWFKTDRubzZFSDNlemJxZHJBVGp6Tmpoa3hGQnlldVV0USJ9--2be1750a80c9b024c154f3b0f3b452ef8014aade
+1537712500010	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1537712500010	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1537712501473	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/
+1537712505060	Marionette	INFO	Stopped listening on port 57881
+[Parent 14684, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16796,[Parent 14684, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14684, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9996, C[GPU 137
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537718359086	geckodriver	INFO	geckodriver 0.21.0
+1537718359100	geckodriver	INFO	Listening on 127.0.0.1:58617
+1537718362133	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile.3H6D8QbBkP6M"
+1537718367563	Marionette	INFO	Listening on port 58625
+1537718367721	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537718367767	Marionette	DEBUG	[6442450945] Frame script loaded
+1537718367768	Marionette	DEBUG	[6442450945] Frame script registered
+1537718367830	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537718369667	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537718372809	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://letskodeit.teachable.com/
+1537718375995	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://letskodeit.teachable.com/
+1537718376295	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537718377427	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537718379499	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537718379500	Marionette	DEBUG	[6442450945] Received DOM event unload for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1537718379875	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/?sa=eyJ1c2VyX2lkIjoxNTExNDQ4LCJleHBpcmVzX2F0IjoxNTM3NzE4OTc4LjY3MzU5NCwic2Nob29sX2lkIjo0MjI5OSwiYXV0aGVudGljYXRpb25fdG9rZW4iOiJ5YUpMNG5vNkVIM2V6YnFkckFUanpOamhreEZCeWV1VXRRIn0%3D--712502fb1365d1c3df445a5e99c489ec186d8eda
+1537718379926	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1537718379927	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1537718380891	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/
+1537718384167	Marionette	INFO	Stopped listening on port 58625
+[Child 21196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21196,[Child 3000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3000, Chrome_[Parent 12140, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6312, C[GPU 13868,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

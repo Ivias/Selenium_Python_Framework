@@ -1,0 +1,15 @@
+09/23/2018 05:54:06 PM - SeleniumDriver - INFO: Element Login Found
+09/23/2018 05:54:06 PM - SeleniumDriver - INFO: Click on the element with locator: Login, locatorType link
+09/23/2018 05:54:07 PM - SeleniumDriver - INFO: Element user_email Found
+09/23/2018 05:54:07 PM - SeleniumDriver - INFO: Sent data on the element with locator: user_email, locatorType id
+09/23/2018 05:54:07 PM - SeleniumDriver - INFO: Element user_password Found
+09/23/2018 05:54:07 PM - SeleniumDriver - INFO: Sent data on the element with locator: user_password, locatorType id
+09/23/2018 05:54:07 PM - SeleniumDriver - INFO: Element commit Found
+09/23/2018 05:54:11 PM - SeleniumDriver - INFO: Click on the element with locator: commit, locatorType name
+09/23/2018 05:54:11 PM - SeleniumDriver - ERROR: ### VERIFICATION FAILED :: + Title validation
+09/23/2018 05:54:11 PM - SeleniumDriver - INFO: Screenshot save to directory: C:\Users\HOME\PycharmProjects\letskodeit\base\../screenshots/Title validation.1537718051316.png
+09/23/2018 05:54:14 PM - SeleniumDriver - INFO: Element //*[@id='navbar']//span[text()='Test Userbg'] not found
+09/23/2018 05:54:14 PM - SeleniumDriver - INFO: Element //*[@id='navbar']//span[text()='Test Userbg'] not found
+09/23/2018 05:54:14 PM - SeleniumDriver - ERROR: ### VERIFICATION FAILED :: + Login Successfulness
+09/23/2018 05:54:14 PM - SeleniumDriver - INFO: Screenshot save to directory: C:\Users\HOME\PycharmProjects\letskodeit\base\../screenshots/Login Successfulness.1537718054452.png
+09/23/2018 05:54:14 PM - SeleniumDriver - ERROR: ### TEST FAILED :: + test_validLogin
